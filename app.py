@@ -14,6 +14,27 @@ from functionforDownloadButtons import download_button
 import os
 import json
 
+list_keywords = ['climate','environment','waste','renewable','water', 'carbon',
+           'sustainab','strategy','scope','emission','ghg', 'co2',
+           'greenhouse','target', 'environment',
+            
+            'board overs','board overs', 'committ',
+            
+            
+            'climate','environment','waste','natural resource','water'
+            
+            'flood','warm','wind','flood','fuel','disaster', 'warm', 'hurricane', 'heat','solar', 'coal',
+            'catastroph', 
+            
+            'power','electric','green','energy','air',
+            'catastroph','physical','transition','solar','coal','net-zero','net zero', 'catastroph',
+            'hurricane','terrorism','storm','tornado','severe','weather','IPCC','°','warm','land','ocean'
+            
+            'ghg', 'emission', 'greenhouse', 'co2', 'scope 1', 'scope 2', 'scope 3', 'carbon',
+            
+            'reduc','reduction', 'science', 'Paris Agreement', 'net-zero','net zero', 'committ'
+           ]
+
 # set page title and icon
 st.set_page_config(
     page_title="BERT Keyword Extractor",
@@ -209,7 +230,10 @@ df = (
     .reset_index(drop=True)
 )
 
+df=df[df['Keyword/Keyphrase'].str.contains('|'.join(list_keywords))]
+
 df.index += 1
+
 
 # Add Styling to the table columns and rows
 
