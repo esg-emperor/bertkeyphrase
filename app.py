@@ -16,7 +16,7 @@ import json
 
 list_keywords = ['climate','environment','waste','renewable','water', 'carbon',
            'sustainab','strategy','scope','emission','ghg', 'co2',
-           'greenhouse','target', 'environment',
+           'greenhouse','target', 'environment', 'oil', 'coal',
             
             'board overs','board overs', 'committ',
             
