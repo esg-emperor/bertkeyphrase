@@ -175,6 +175,10 @@ Note that the *Keyword diversity* slider only works if the *MMR* checkbox is tic
 
 
     data="""
+    	The Company also considers climate change risks in making investment decisions to acquire and develop properties.  As part of our proactive measures to increase awareness and preparedness for the potential future impact from climate change, the Company completed resilience assessments of our Boston portfolio and our Los Angeles portfolio.  Through these assessments, we have developed a strategy and methodology for assessing climate resilience that will be expanded in 2022 to our full portfolio and potential investment opportunities.  In addition, the Company partners with cities and local governments, through organizations like the Boston Green Ribbon Commission, to develop climate resilience plans and strategies for fighting climate change.  We aim to make climate resilience a key driver in our overall business strategy in order to mitigate risks and identify long-term value creation opportunities. 
+ 	Through this screening process, we weigh several sustainability characteristics that contribute to long-term value and resilience.  We conduct energy audits and identify potential opportunities to increase efficiency in building systems.  This includes considering LEED status, on-site clean and renewable energy, energy intensity, benchmarking our energy use and scanning for lighting retrofits and central system controls.  We also consider physical risks such as the potential for flooding, wildfires and environmental hazards and conduct a Phase I Environmental Site Assessment on all new acquisitions. 
+ 	2 Equity Residential used the Intergovernmental Panel on Climate Change (IPCC) Representative Concentration Pathway (RCP) 4. 5 and a “businesses-as usual” scenario of RCP 8. 5 as the two scenarios to assess impacts and selected medium- and longer-term timeframes of 2030 and 2050 based on the types of expected hazards and regulatory frameworks impacting the Boston area. 
+ 	Environment—Climate Strategy and Portfolio Resilience;Sustainable Buildings;Energy and Emissions Describe the resilience of the organizations strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.
 	Deutsche Bank has signed up to the World Green Building Council’s (WGBC) Net Zero Carbon Buildings Commitment, pledging to reduce and compensate operational emissions associated with energy used to light, heat, cool and power buildings, for assets over which it has direct control.
 
 	In addition, as part of the commitment, the bank will maximise reduction of the embodied carbon emissions for owned new developments and major renovations by 2030 and compensate all residual upfront emissions. Embodied carbon emissions are those associated with the manufacture of materials, transport to and from the construction site, and processes used during the construction phase of a building or infrastructure.
@@ -192,6 +196,7 @@ Note that the *Keyword diversity* slider only works if the *MMR* checkbox is tic
 
 	EP100 members are committed to doubling their energy productivity, rolling out energy management systems, or achieving net zero carbon buildings, all within set timeframes. Over 120 businesses have already committed to measuring and reporting on energy efficiency improvements, essential for the reduction in energy-related emissions needed to achieve global climate goals. 
 	""",
+	
 
     with c2:
         data = st.text_area(
