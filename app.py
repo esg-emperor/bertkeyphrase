@@ -180,21 +180,6 @@ Note that the *Keyword diversity* slider only works if the *MMR* checkbox is tic
  	2 Equity Residential used the Intergovernmental Panel on Climate Change (IPCC) Representative Concentration Pathway (RCP) 4. 5 and a “businesses-as usual” scenario of RCP 8. 5 as the two scenarios to assess impacts and selected medium- and longer-term timeframes of 2030 and 2050 based on the types of expected hazards and regulatory frameworks impacting the Boston area. 
  	Environment—Climate Strategy and Portfolio Resilience;Sustainable Buildings;Energy and Emissions Describe the resilience of the organizations strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.
 	Deutsche Bank has signed up to the World Green Building Council’s (WGBC) Net Zero Carbon Buildings Commitment, pledging to reduce and compensate operational emissions associated with energy used to light, heat, cool and power buildings, for assets over which it has direct control.
-
-	In addition, as part of the commitment, the bank will maximise reduction of the embodied carbon emissions for owned new developments and major renovations by 2030 and compensate all residual upfront emissions. Embodied carbon emissions are those associated with the manufacture of materials, transport to and from the construction site, and processes used during the construction phase of a building or infrastructure.
-
-	Together, operational and embodied carbon emissions combined are 39 percent of global energy-related carbon emissions (28 percent from operational emissions, 11 percent from construction, according to the WGBC).
-
-	Deutsche Bank is one of seven new signatories to the Commitment, bringing the total to 169 signatories over 28 cities in six states and regions.
-
-	The WGBC is a global action network comprised of around 70 Green Building Councils around the globe, and as members of the UN Global Compact, they work with businesses, organisations and governments to support the ambitions of the Paris Agreement and the UN’s Sustainable Development Goals (SDGs). Their aim is to transform the building and construction sector across three strategic areas: climate action; health and wellbeing; and resources and circularity. 
-
-	The Net Zero Carbon Buildings Commitment was launched in September 2018 at the Global Climate Action Summit and is part of WGBC’s global “Advancing Net Zero” project to accelerate the path to net zero carbon buildings to 100 percent by 2050.
-	Deutsche Bank now also member of EP100
-
-	Deutsche Bank has also become a member of the EP100 initiative. This is a global corporate Energy Productivity initiative led by the international non-profit Climate Group.
-
-	EP100 members are committed to doubling their energy productivity, rolling out energy management systems, or achieving net zero carbon buildings, all within set timeframes. Over 120 businesses have already committed to measuring and reporting on energy efficiency improvements, essential for the reduction in energy-related emissions needed to achieve global climate goals. 
 	""",
 	
 
