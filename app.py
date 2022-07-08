@@ -174,10 +174,7 @@ Note that the *Keyword diversity* slider only works if the *MMR* checkbox is tic
 # # 	Environment—Climate Strategy and Portfolio Resilience;Sustainable Buildings;Energy and Emissions Describe the resilience of the organizations strategy, taking into consideration different climate-related scenarios, including a 2°C or lower scenario.     """,
 
 
-    data="""
-    	
-	
-	The Travelers Companies, Inc. (NYSE: TRV) today published its 2021 Sustainability Report, which outlines the company’s comprehensive strategy for creating shareholder value over time, as well as its ongoing environmental, social and governance (ESG) initiatives.
+    data=""" The Travelers Companies, Inc. (NYSE: TRV) today published its 2021 Sustainability Report, which outlines the company’s comprehensive strategy for creating shareholder value over time, as well as its ongoing environmental, social and governance (ESG) initiatives.
 “Our long-term success is tied to our ability to execute in the marketplace while upholding the promise we made to be there for our customers, communities and employees,” said Yafit Cohn, Chief Sustainability Officer at Travelers. “This year’s sustainability report details that approach and highlights how our ESG initiatives are integrated throughout everything we do.”
 The report provides an in-depth review of the 16 topics the company has identified as its key drivers of sustained value: Business Strategy & Competitive Advantages, Capital & Risk Management, Climate Strategy, Community, Customer Experience, Data Privacy & Cybersecurity, Disaster Preparedness & Response, Diversity & Inclusion, Eco-Efficient Operations, Ethics & Values, Governance Practices, Human Capital Management, Innovation, Investment Management, Public Policy and Safety & Health.
 Highlights from the company’s 2021 report include:
@@ -215,8 +212,7 @@ Public Policy
     Throughout 2020 and 2021, the Travelers Institute hosted 45 virtual events to help consumers and business leaders navigate through uncertain times. The programs, which explored topics like cybersecurity, distracted driving and natural disasters, garnered nearly 100,000 views.
 
 The company’s sustainability reporting is guided by multiple sustainability disclosure frameworks, as well as engagements with key stakeholders from both inside and outside the company. Travelers is a leader among domestic property casualty insurance companies in publishing reports responsive to the Sustainability Accounting Standards Board (SASB) standards for the insurance industry and the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD). 
-	
-	""",
+""",
 	
 
     with c2:
