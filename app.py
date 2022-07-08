@@ -66,7 +66,7 @@ with st.expander("About this app", expanded=True):
 
     st.write(
         """
-	Includes example article from https://www.db.com/what-we-do/responsibility/. Please change the text for more example outputs.
+	Includes example article from https://investor.travelers.com/newsroom/newsroom-overview/default.aspx. Please change the text for more example outputs.
 	    """
     )
 
